@@ -31,6 +31,14 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="Header.hpp" />
+		<Unit filename="Main.cpp" />
+		<Unit filename="Parcelle.cpp" />
+		<Unit filename="ProduitPhytoSanitaire.cpp" />
+		<Unit filename="Pulverisation.cpp" />
+		<Unit filename="TraitementEnChamp.cpp" />
+		<Unit filename="TraitementPhytosanitaire.cpp" />
+		<Unit filename="TraitementSemence.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />
